@@ -1,0 +1,19 @@
+{
+  "name": "cv",
+  "version": "1.0.0",
+  "description": "My personal CV",
+  "main": "watch.js",
+  "author": "Eike Foken <kontakt@eikefoken.de>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "lint": "eslint watch.js",
+    "start": "node watch.js",
+    "test": "npm run -s lint"
+  },
+  "devDependencies": {
+    "eslint": "^4.9.0",
+    "lodash.startcase": "^4.4.0",
+    "markdown-pdf": "^8.0.0"
+  }
+}
