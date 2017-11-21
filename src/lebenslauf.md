@@ -22,19 +22,20 @@ Aurich, einer Kleinstadt in Ostfriesland.
 Ursprünglich wurde ich hier als Entwickler für webbasierte Software (z. B. für
 die Deutsche Messe AG und die CEBIT) angestellt. Inzwischen bin ich zuständig
 für die Umsetzung von responsiven Websites und Mobile-Apps, von der Konzeption
-bis hin zur Programmierung in PHP, JavaScript sowie CSS, mit bekannten
+bis hin zur Programmierung mit PHP, JavaScript sowie CSS; mit bekannten
 Frameworks wie Laravel, Angular, Ionic, React und Bootstrap.
 
 ###### eMedienservice Nord, Bremen --- 08/2013--12/2013
 
-Eine Agentur, ein Tochterunternehmen der Nordwest-Zeitung, von der ich, kurz
-nachdem die QP media GmbH aufgelöst wurde, übernommen wurde. Meine Tätigkeiten
-umfassten neben dem eigenständigen Entwickeln von responsiven Websites und der
-WordPress-Entwicklung, auch die Programmierung von www.nwzonline.de in Java.
+Eine Agentur - ein Tochterunternehmen der Nordwest-Zeitung - von der ich, kurz
+nachdem die QP media GmbH (s. u.) aufgelöst wurde, übernommen wurde. Meine
+Tätigkeiten umfassten neben dem eigenständigen Entwickeln von responsiven
+Websites und der Theme-Entwicklung für WordPress, auch die Programmierung von
+www.nwzonline.de in Java.
 
 ###### QP media GmbH, Oldenburg --- 10/2011--07/2013
 
-Ein kleines Startup-Unternehmen, welches sich mit dem Thema "Coupening"
+Ein kleines Startup-Unternehmen, welches sich mit dem Thema "Couponing"
 beschäftigte. Vom ersten Tag an habe ich das Startup begleitet und eine
 bekannte, regionale Coupon-Plattform mitentwickelt. Zu den verwendeten
 Programmiersprachen zählten Python (Django) und JavaScript.
